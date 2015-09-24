@@ -6,6 +6,12 @@
     <Name>RepasoEC1.database</Name>
     <FullPath>RepasoEC1.database</FullPath>
   </Database>
+  <Dimensions>
+    <ProjectItem>
+      <Name>Organization.dim</Name>
+      <FullPath>Organization.dim</FullPath>
+    </ProjectItem>
+  </Dimensions>
   <DataSources>
     <ProjectItem>
       <Name>Adventure Works DW2014.ds</Name>
